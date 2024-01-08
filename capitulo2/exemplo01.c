@@ -13,6 +13,7 @@ int main(){
 Saída:
 x = qualquer valor
 x = 5
+
 Motivo dá primeira saída ser um valor aleatório é que uma variável é uma posição de memória em que podemos guardar dados 
 porém não existe memória "vazia", pois a posição de memória está preenchido com números binários, 
 o que muda é estar em uso ou não, quando não utilizada já é preenchido por padrão com "lixo de memória".

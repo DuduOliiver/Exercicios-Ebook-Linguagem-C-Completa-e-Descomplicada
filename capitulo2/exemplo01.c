@@ -11,7 +11,7 @@ int main(){
 
 /*
 Saída:
-x = qualquer valor
+x = qualquer valor.
 x = 5
 
 Motivo dá primeira saída ser um valor aleatório é que uma variável é uma posição de memória em que podemos guardar dados porém não existe memória "vazia", 

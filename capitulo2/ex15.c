@@ -17,7 +17,7 @@ int main(){
     printf("Digite 1 numero float: ");
     scanf("%f", &f1);
     printf("Valor: %c %d %f\n", c1,n1,f1);
-    printf("Valor: %c | %d | %f\n", c1,n1,f1);
+    printf("Valor: %c\t%d\t%f\n", c1,n1,f1);
     printf("Valor: \n%c\n%d\n%f\n", c1,n1,f1);
     return 0;
 }

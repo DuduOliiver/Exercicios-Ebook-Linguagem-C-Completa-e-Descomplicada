@@ -8,6 +8,7 @@ int main(){
     scanf("%c",&ch1);
     printf("Digitado: %d",ch1);
     //printf("Digitado: %c",ch1); jeito certo
+    return 0;
 }
 
 /*
